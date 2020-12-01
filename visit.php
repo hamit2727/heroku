@@ -92,6 +92,11 @@ $urls = array (
   array("gizeleerodriguezz","http://kandillihamit.pserver.ru/gizeleerodriguezz/index.php"),
   array("victoriamuchalless","http://kandillihamit.pserver.ru/victoriamuchalless/index.php"),
   array("michelleberknmenn","http://kandillihamit.pserver.ru/michelleberknmenn/index.php"),
+  array("rahnnexscorey","http://kandillihamit.pserver.ru/rahnnexscorey/index.php"),
+  array("saraxdaciart","http://kandillihamit.pserver.ru/saraxdaciart/index.php"),
+  array("cristianberkk57","http://kandillihamit.pserver.ru/cristianberkk57/index.php"),
+  array("alextorment35","http://kandillihamit.pserver.ru/alextorment35/index.php"),
+  array("alaramaryin45","http://kandillihamit.pserver.ru/alaramaryin45/index.php"),
 );
 $st = count($urls);
 //echo "Start ht";

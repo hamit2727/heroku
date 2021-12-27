@@ -119,7 +119,7 @@ $urls = array (
   array("magazines","https://kandillihamit.pserver.ru/magazines/index.php"),
   array("magazines","https://kandillihamit.pserver.ru/magazines/index.php"),
   array("magazines","https://kandillihamit.pserver.ru/magazines/index.php"),
-  array("magazines","https://kandillihamit.pserver.ru/magazines/index.php"),
+  array("magazines","https://kandillihamit.pserver.ru/magazines/index.php")
     
  
 );
